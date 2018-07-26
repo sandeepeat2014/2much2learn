@@ -35,6 +35,8 @@ There's always 2 much 2 learn !!!
   * HttpClient
   * Swagger
   * Elastic Search
+  * Airline - Java annotation-based framework for parsing Git like command line structures - https://github.com/airlift/airline
+  * Google Guice - Dependency Management
 * Holon
 * Lightbend
 * Eventuate
