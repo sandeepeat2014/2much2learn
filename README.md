@@ -38,6 +38,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Airline - Java annotation-based framework for parsing Git like command line structures - https://github.com/airlift/airline
   * Google Guice - Dependency Management
   * Hikari Connection Pool
+  * [Handlebar Java](https://jknack.github.io/handlebars.java/)
 * Microservices
   * Holon
   * Lightbend
