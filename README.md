@@ -1,6 +1,6 @@
 # 2much2learn.com
 
-http://2much2learn.com - There's always 2 much 2 learn !!!
+https://2much2learn.com - There's always 2 much 2 learn !!!
 
 ## Things to do
 * Java
