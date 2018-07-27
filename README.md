@@ -31,8 +31,6 @@ There's always 2 much 2 learn !!!
   * Data
   * JPA
   * LDAP
-
-* Hashicorp
 * Libraries
   * HttpClient
   * Swagger
