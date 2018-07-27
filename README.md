@@ -31,15 +31,30 @@ There's always 2 much 2 learn !!!
   * Data
   * JPA
   * LDAP
+
+* Hashicorp
 * Libraries
   * HttpClient
   * Swagger
   * Elastic Search
   * Airline - Java annotation-based framework for parsing Git like command line structures - https://github.com/airlift/airline
   * Google Guice - Dependency Management
-* Holon
-* Lightbend
-* Eventuate
+  * Hikari Connection Pool
+* Microservices
+  * Holon
+  * Lightbend
+  * Eventuate
+  * Netflix
+    * Zuul (Hysterx, Eureka, Ribbon)
+    * Spinnaker
+    * Nebula
+* Hashicorp
+  * Terraform
+  * Consul
+  * Packer
+  * Vault
+  * Nomad
+  * Vagrant
 * Akka
 * Bigdata
   * Kafka
@@ -55,15 +70,26 @@ There's always 2 much 2 learn !!!
   * MySql
   * SqlServer
   * MariaDB
+* UI
+  * React
+  * Vue
+  * Angular
+  * Material Design
+  * Bootstrap
+  * Semantic UI
+  * SASS, LESS
 * Servers
   * Tomcat
   * Jetty
   * JBoss
   * Wildfly
 * CI/CD
+  * Build - Maven , Gradle
   * Docker
   * Kubernetes
   * Ansible
   * Terraform
   * AWS - EC2, ECS, ECR, EKS, RDS, Lambda, API Gateway, Load Balancer
   * Azure
+  * Jenkins
+  * Travis CI
