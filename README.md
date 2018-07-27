@@ -31,14 +31,6 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Data
   * JPA
   * LDAP
-* Libraries
-  * HttpClient
-  * Swagger
-  * Elastic Search
-  * Airline - Java annotation-based framework for parsing Git like command line structures - https://github.com/airlift/airline
-  * Google Guice - Dependency Management
-  * Hikari Connection Pool
-  * [Handlebar Java](https://jknack.github.io/handlebars.java/)
 * Microservices
   * Holon
   * Lightbend
@@ -47,6 +39,47 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Zuul (Hysterx, Eureka, Ribbon)
     * Spinnaker
     * Nebula
+* Libraries
+  * Loggers
+    * slf4j
+    * log4j
+    * logback
+  * Testing
+    * JUnit
+    * TestNG
+    * Mockito
+    * Cucumber
+    * DBUnit
+    * Selenium
+    * JMeter
+    * Grinder
+    * Gatling    
+  * HttpClient
+  * Swagger
+  * Elastic Search
+  * Airline - Java annotation-based framework for parsing Git like command line structures - https://github.com/airlift/airline
+  * Google Guice - Dependency Management
+  * Hikari Connection Pool
+  * [Handlebar Java](https://jknack.github.io/handlebars.java/)
+  * [OkHttp Http Client](http://square.github.io/okhttp/)
+  * [OpenFeign Http Client](https://github.com/OpenFeign/feign)
+  * [Retrofit Http Client](http://square.github.io/retrofit/)
+  * RESTEasy
+  * Flyway DB
+  * ORM
+    * Hibernate
+    * Apache Cayenne
+    * jOOQ
+    * EclipseLink
+  * Apache Commons
+    * Lang
+    * Collections
+    * Exec
+    * Email
+    * Math
+    * IO
+    * Compress
+    * Configurations
 * Hashicorp
   * Terraform
   * Consul
