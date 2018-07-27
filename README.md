@@ -80,6 +80,11 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * IO
     * Compress
     * Configurations
+  * Apache Lucene
+  * Apache Solr
+  * Secuirty
+    * Apache Fortress
+    * Apache Shiro
 * Hashicorp
   * Terraform
   * Consul
