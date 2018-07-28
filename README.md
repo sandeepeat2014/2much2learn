@@ -10,16 +10,49 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Time package
   * Threads, Executor Service, Threadpool, ThreadLocal
   * lang package
-  * Design Patterns
   * Functional Interfaces
   * Lambdas
   * Streams
   * Annotations
+  * Blocking Queue
+  * Hashcode, Equals
+  * Serial Version UID
+  * Futire / Compatable Future
+  * Executor Service
+  * Blocking, Non Blocking NIO, Non Blocking Reactive,
+  * Servlet 4.0
 * Concepts
+  * FQDN / DNS
   * Microservices
   * CQRS
   * Domain Driven Design
   * Event Sourcing
+  * SAML
+  * SNMP
+  * Network
+    * TCP
+    * UDP
+    * Multicast
+    * HTTPS
+    * TLS
+    * SSL
+    * Keystore
+* Design Patterns
+  * Singleton
+  * Factory
+  * Prototype
+  * Adapter
+  * Composite
+  * Proxy
+  * Flyweight
+  * Facade
+  * Bridge
+  * Decorator
+  * Chain of Responsibility
+  * Mediator
+  * Command
+  * Stratergy
+  * Observer
 * Spring
   * Boot
   * Rest / Webflux
@@ -40,6 +73,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Spinnaker
     * Nebula
 * Libraries
+  * Lombok
   * Loggers
     * slf4j
     * log4j
@@ -53,7 +87,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Selenium
     * JMeter
     * Grinder
-    * Gatling    
+    * Gatling  
+  * Netty
+  * Undertow
   * HttpClient
   * Swagger
   * Elastic Search
@@ -71,6 +107,10 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Apache Cayenne
     * jOOQ
     * EclipseLink
+  * Caching
+    * Hazelcast
+    * Infinispan
+    * Encache
   * Apache Commons
     * Lang
     * Collections
@@ -85,6 +125,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Secuirty
     * Apache Fortress
     * Apache Shiro
+    * pac4j
+  * jjwt - Java JSON Web Token
 * Hashicorp
   * Terraform
   * Consul
@@ -99,6 +141,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Hive
 * Gatsby
 * NodeJS
+  * Express Js
+  * Hapi JS
+  * Next JS
 * NoSQL
   * Mongo
   * Cassandra
@@ -115,6 +160,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Bootstrap
   * Semantic UI
   * SASS, LESS
+  * Webpack
+  * Typescript
 * Servers
   * Tomcat
   * Jetty
@@ -130,3 +177,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Azure
   * Jenkins
   * Travis CI
+* Applications
+  * Jira
+  * Confluence
+  * Bamboo
+  * Crusable
+  * Bitbucket
+  * Sonar Qube
+  * Confluence
+  * Blackduck
