@@ -27,6 +27,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * CQRS
   * Domain Driven Design
   * Event Sourcing
+  * Kerberos
   * SAML
   * SNMP
   * Network
