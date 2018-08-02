@@ -133,6 +133,42 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Apache Shiro
     * pac4j
   * jjwt - Java JSON Web Token
+* Static Code Analysis & Quality Metrics
+  * Java
+    * JaCoCo
+    * Cobertura
+    * Coverity
+    * CheckStyle
+    * Find Bugs
+    * Error Prone
+    * PMD
+    * SOOT
+    * Squale
+    * SourceMeter
+    * Threadsafe
+    * Sonargraph
+    * Jtest
+    * JArchitect
+    * Infer
+  * Javascript
+    * DeepScan
+    * StandardJs
+    * ESLint
+    * JSHint
+    * JSLint
+    * 
+* Analysis & Debugging
+  * AppDynamics
+  * Java Debug, Profiling & Memory Management
+    * JPRofiler
+    * YourKit
+    * Java Visual VM
+    * Java Mission Control
+    * Netbeans Profiler
+    * NewRelic
+    * https://dzone.com/articles/java-memory-management
+    * jstat
+    * jconsole 
 * Hashicorp
   * Terraform
   * Consul
