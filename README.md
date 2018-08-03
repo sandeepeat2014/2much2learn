@@ -25,6 +25,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 * Concepts
   * FQDN / DNS
   * Microservices
+  * TDD
+  * BDD
+  * 
   * CQRS
   * Domain Driven Design
   * Event Sourcing
@@ -278,6 +281,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Bitbucket
   * Sonar Qube
   * Confluence
+  * Slack
+  * Mattermost
   * Blackduck
   * Coverity
   * Snyk
