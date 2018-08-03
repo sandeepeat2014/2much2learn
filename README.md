@@ -258,6 +258,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Azure
   * Jenkins
   * Travis CI
+* Unix
+  * Shell Script
+  * Cron Scheduling
+  * Commands
+  * Editors
+  * System Checks
 * Applications
   * Jira
   * Confluence
@@ -270,6 +276,11 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Coverity
   * Snyk
   * Whitesource Software
+  * Google Apps/Tools
+    * Chrome Devtools
+    * Lighthose
+    * Puppeteer
+    * Workbox
 
 ## Blog Ideas
 * [React Comments](https://wesbos.com/react-jsx-comments/)
