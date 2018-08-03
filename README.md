@@ -28,6 +28,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Domain Driven Design
   * Event Sourcing
   * Kerberos
+  * Data Lake
+  * Analytics
   * SAML
   * SNMP
   * Network
@@ -38,6 +40,11 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * TLS
     * SSL
     * Keystore
+  * OLAP
+  * OWSAP
+  * Promise
+  * Async/Await
+  * NATIONAL VULNERABILITY DATABASE
 * Design Patterns
   * Singleton
   * Factory
@@ -156,7 +163,23 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * ESLint
     * JSHint
     * JSLint
-    * 
+* Reporting & Analytics
+  * Jaspersoft
+    * Jasper Reports Library
+    * Jasper Reports Server
+    * Jaspersoft ETL
+    * Visualize.js
+  * BIRT
+  * Pentaho
+    * Pentaho Data Integration
+    * Kettle
+    * Mondrian
+    * Weka
+    * Reporting
+  * Knowage Suite
+  * Report Server
+  * KNIME Platform
+  * Tableau
 * Analysis & Debugging
   * AppDynamics
   * Java Debug, Profiling & Memory Management
@@ -182,10 +205,15 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Hadoop
   * Hive
 * Gatsby
-* NodeJS
+* Javascript/NodeJS
   * Express Js
   * Hapi JS
   * Next JS
+  * Node Secuirty Framework
+  * Passport
+  * Math JS
+  * D3 JS
+  * Lodash
 * NoSQL
   * Mongo
   * Cassandra
@@ -239,6 +267,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Sonar Qube
   * Confluence
   * Blackduck
+  * Coverity
+  * Snyk
+  * Whitesource Software
 
 ## Blog Ideas
 * [React Comments](https://wesbos.com/react-jsx-comments/)
