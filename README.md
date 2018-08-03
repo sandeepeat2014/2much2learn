@@ -4,6 +4,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 
 ## Things to do
 * Java
+  * Object Oriented Programming
   * Collections
   * String class
   * Util package
@@ -61,6 +62,11 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Command
   * Stratergy
   * Observer
+  * Functional Programming
+  * Reactive Programming
+  * Functional Reactive Programming
+  * Declarative Programming
+  * Imperative Programming
 * Spring
   * Boot
   * Rest / Webflux
