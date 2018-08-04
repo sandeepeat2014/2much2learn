@@ -149,6 +149,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Apache Shiro
     * pac4j
   * jjwt - Java JSON Web Token
+  * jHipster
 * Static Code Analysis & Quality Metrics
   * Java
     * JaCoCo
