@@ -214,6 +214,15 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Kafka
   * Hadoop
   * Hive
+* Cloud Tools
+  * etcd
+  * Rancher
+  * Syslog
+  * Zookeeper
+* NewSQL
+  * CockroachDB
+  * TiDB
+  * CLOUD SPANNER
 * Gatsby
 * Javascript/NodeJS
   * Express Js
