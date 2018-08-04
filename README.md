@@ -27,7 +27,6 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Microservices
   * TDD
   * BDD
-  * 
   * CQRS
   * Domain Driven Design
   * Event Sourcing
@@ -49,6 +48,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Promise
   * Async/Await
   * NATIONAL VULNERABILITY DATABASE
+  * Open Graph
 * Design Patterns
   * Singleton
   * Factory
@@ -302,6 +302,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Lighthose
     * Puppeteer
     * Workbox
+* [Public APIs](https://github.com/toddmotto/public-apis)
+  * LinkedIn
+  * Facebook
+  * Tumblr
+  * [NSW Transport Open Data](https://opendata.transport.nsw.gov.au/)
+  * 
 
 ## Blog Ideas
 * [React Comments](https://wesbos.com/react-jsx-comments/)
