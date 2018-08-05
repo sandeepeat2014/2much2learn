@@ -23,6 +23,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Blocking, Non Blocking NIO, Non Blocking Reactive,
   * Servlet 4.0
 * Concepts
+  * [The Twelve-Factor App](https://12factor.net/)
   * FQDN / DNS
   * Microservices
   * TDD
@@ -46,10 +47,31 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Keystore
   * OLAP
   * OWSAP
+  * Open ID
+  * OAuth 2
   * Promise
   * Async/Await
   * NATIONAL VULNERABILITY DATABASE
   * Open Graph
+  * $AAS
+    * PaaS-Platform-as-a-Service
+    * FaaS-Function-as-a-Service
+    * IaaS-Infrastructure-as-a-Service
+    * CaaS-Content-as-a-Service
+    * Laas-Logging-as-a-Service
+  * Testing
+    * Whitebox Testing
+	* Blackbox Testing
+    * Penetration Testing
+	* Functional Testing
+	* Unit Testing
+	* Integration Testing
+	* System Testing
+	* Stress Testing
+	* Usability Testing
+	* Acceptance Testing
+	* Regression Testing
+	* Beta Testing
 * Design Patterns
   * Singleton
   * Factory
@@ -101,6 +123,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
       * Graphite
       * Prometheus
       * Collectd
+	  * Riemann
     * Distributed Tracing
       * Open Zipkin
       * Open Tracing
@@ -108,6 +131,24 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Debugging
       * Squash - Debugger for Microservices
       * Splunk Log Management
+	* Localization
+	  * Zanata - Web Based Transclation 
+* Integration Frameworks
+  * Apache Camel
+  * Mulesoft
+  * Fuse ESB
+  * Apache ServiceMix
+* Cloud Platforms
+  * Apache OpenWhisk - Serverless cloud Platform
+  * Apache CloudStack
+  * Openstack
+  * Cloud Foundry
+  * Coreos
+* Business Process Engines
+  * jBPM
+  * Flowable
+  * Activiti
+  * Camunda
 * Libraries
   * Lombok
   * Loggers
@@ -125,8 +166,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Grinder
     * Gatling
     * CA LISA
+	* Arquillian
+  * Java Assist
   * Netty
   * Undertow
+  * Drools
+  * Narayana - Transaction Manager
   * HttpClient
   * Swagger
   * AXWAY Gateway
@@ -164,6 +209,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Apache Fortress
     * Apache Shiro
     * pac4j
+	* PicketLink
   * jjwt - Java JSON Web Token
   * jHipster
 * Static Code Analysis & Quality Metrics
@@ -207,6 +253,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * KNIME Platform
   * Tableau
   * ELK Stack
+  * JBoss Teiid
 * Analysis & Debugging
   * AppDynamics
   * Java Debug, Profiling & Memory Management
@@ -292,6 +339,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Terraform
   * AWS - EC2, ECS, ECR, EKS, RDS, Lambda, API Gateway, Load Balancer
   * Azure
+  * IBM Cloud
   * Jenkins
   * Travis CI
 * Unix
@@ -324,7 +372,6 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Facebook
   * Tumblr
   * [NSW Transport Open Data](https://opendata.transport.nsw.gov.au/)
-  * 
 
 ## Blog Ideas
 * [React Comments](https://wesbos.com/react-jsx-comments/)
