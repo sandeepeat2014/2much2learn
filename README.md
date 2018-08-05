@@ -25,6 +25,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 * Concepts
   * [The Twelve-Factor App](https://12factor.net/)
   * FQDN / DNS
+  * HTTP/2
   * Microservices
   * TDD
   * BDD
@@ -32,6 +33,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Domain Driven Design
   * Event Sourcing
   * Distributed Tracing
+  * STOMP
+  * MQTT
+  * AMQP
   * Kerberos
   * Data Lake
   * Analytics
