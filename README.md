@@ -30,6 +30,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * CQRS
   * Domain Driven Design
   * Event Sourcing
+  * Distributed Tracing
   * Kerberos
   * Data Lake
   * Analytics
@@ -82,6 +83,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * JPA
   * LDAP
 * Microservices
+  * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
   * Holon
   * Lightbend
   * Eclipse Microprofile
@@ -92,6 +94,20 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Zuul (Hysterx, Eureka, Ribbon)
     * Spinnaker
     * Nebula
+  * Applications & Tools
+    * Service Monitoring
+      * Ganglia
+      * Grafana
+      * Graphite
+      * Prometheus
+      * Collectd
+    * Distributed Tracing
+      * Open Zipkin
+      * Open Tracing
+      * Jaeger Tracing
+    * Debugging
+      * Squash - Debugger for Microservices
+      * Splunk Log Management
 * Libraries
   * Lombok
   * Loggers
@@ -190,6 +206,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Report Server
   * KNIME Platform
   * Tableau
+  * ELK Stack
 * Analysis & Debugging
   * AppDynamics
   * Java Debug, Profiling & Memory Management
