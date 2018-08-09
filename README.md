@@ -174,6 +174,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Java Assist
   * Netty
   * Undertow
+  * Apache Thrift
   * Drools
   * Narayana - Transaction Manager
   * HttpClient
