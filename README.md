@@ -22,10 +22,17 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Executor Service
   * Blocking, Non Blocking NIO, Non Blocking Reactive,
   * Servlet 4.0
+* Groovy
+* Kotlin
+* Scala
+* Python
 * Concepts
   * [The Twelve-Factor App](https://12factor.net/)
   * FQDN / DNS
   * HTTP/2
+  * Immutability
+  * Deep Copy
+  * Hashing
   * Microservices
   * TDD
   * BDD
@@ -102,12 +109,71 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Rest / Webflux
   * MVC
   * Cloud
+    * Config
+    * Netflix
+    * Bus
+    * Cloud Foundry
+    * Open Service Broker
+    * Cluster
+    * Consul
+    * Security
+    * Sleuth
+    * Data Flow
+    * Stream
+    * Task
+    * Zookeeper
+    * Connectors
+    * Contract
+    * Gateway
+    * OpenFeign
+    * Function
   * AOP
   * Secuirty
-  * OAuth
+    * Kerberos
+    * OAuth
+    * SAML
   * Data
+    * Commons
+    * Cassandra
+    * Aerospike
+    * ArangoDB
+    * Couchbase
+    * Azure DocumentDB
+    * DynamoDB
+    * Elasticsearch
+    * Hazelcast
+    * Jest
+    * Neo4j
+    * Vault
+    * Envers
+    * Pivotal GemFire
+    * Graph
+    * JDBC
+    * JDBC Extensions
+    * JPA
+    * LDAP
+    * MongoDB
+    * Redis
+    * REST
+    * Apache Solr
+    * Apache Hadoop
   * JPA
   * LDAP
+  * Session
+  * Integration
+  * Batch
+  * IO Platform
+  * AMQP
+  * CredHub
+  * Android
+  * Mobile
+  * Roo
+  * Shell
+  * StateMachine
+  * Test HtmlUnit
+  * Vault
+  * WebFlow
+  * Web Services
 * Microservices
   * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
   * Holon
@@ -126,6 +192,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
       * Grafana
       * Graphite
       * Prometheus
+      * Fluentd
       * Collectd
 	  * Riemann
     * Distributed Tracing
@@ -329,6 +396,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Apache Httpd
   * IIS
   * traefik
+  * Envoy Proxy
   * caddy
   * lighthttpd
   * Hiawatha Webserver
