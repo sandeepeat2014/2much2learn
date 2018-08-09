@@ -22,6 +22,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Executor Service
   * Blocking, Non Blocking NIO, Non Blocking Reactive,
   * Servlet 4.0
+  * JMS
 * Groovy
 * Kotlin
 * Scala
@@ -34,6 +35,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Deep Copy
   * Hashing
   * Microservices
+  * Service Oriented Architecture (SOA)
+  * Message Oriented Middleware(MOM)
   * TDD
   * BDD
   * CQRS
