@@ -23,6 +23,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Blocking, Non Blocking NIO, Non Blocking Reactive,
   * Servlet 4.0
   * JMS
+  * JAAS
+  * OSGi
 * Groovy
 * Kotlin
 * Scala
@@ -46,7 +48,6 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * STOMP
   * MQTT
   * AMQP
-  * Kerberos
   * Data Lake
   * Analytics
   * SAML
@@ -63,6 +64,11 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * OWSAP
   * Open ID
   * OAuth 2
+  * Kerberos
+  * Single Sign-on
+  * Multi-Factor Authetication
+  * Active Directory
+  * API Access Management
   * Promise
   * Async/Await
   * NATIONAL VULNERABILITY DATABASE
@@ -195,9 +201,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
       * Grafana
       * Graphite
       * Prometheus
+      * Nagios
+      * PM2 Runtime
       * Fluentd
       * Collectd
 	  * Riemann
+	  * LightStep
     * Distributed Tracing
       * Open Zipkin
       * Open Tracing
@@ -443,6 +452,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Lighthose
     * Puppeteer
     * Workbox
+  * Okta
+    * Single Signon
+	* Multifactor Authetication
+	* Lifecycle Management
+	* API Access Management
+  * JumpCloud
 * [Public APIs](https://github.com/toddmotto/public-apis)
   * LinkedIn
   * Facebook
