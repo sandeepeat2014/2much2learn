@@ -60,6 +60,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * TLS
     * SSL
     * Keystore
+    * Telnet
   * OLAP
   * OWSAP
   * Open ID
