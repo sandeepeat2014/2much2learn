@@ -40,6 +40,10 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Protocol Buffers
   * Hashing
   * Microservices
+  * Service Registry
+  * Service Mesh
+  * API Gateway
+  * In-memory Database
   * Service Oriented Architecture (SOA)
   * Message Oriented Middleware(MOM)
   * BOM - Bill of Materials
@@ -256,6 +260,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Gatling
     * CA LISA
 	* Arquillian
+    * Postman
+    * Newman
   * Java Assist
   * Netty
   * Undertow
