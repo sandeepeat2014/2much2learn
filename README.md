@@ -35,6 +35,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * HTTP/2
   * Immutability
   * Deep Copy
+  * Serialization
+    * Java Serialization (Standard but has well known problems - see Effective Java, by Josh Bloch pp. 213)
+    * Protocol Buffers
   * Hashing
   * Microservices
   * Service Oriented Architecture (SOA)
@@ -478,6 +481,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Facebook
   * Tumblr
   * [NSW Transport Open Data](https://opendata.transport.nsw.gov.au/)
+* Open Source Applications
+  * Rocket.chat - Alternative to Slack
+  * Etherpad - web-based collaborative real-time editor
+  * Wekan - Task & Project Management
+  * Davros - File Manager Server 
+  * Sandstorm - open source platform for self-hosting web apps
 
 ## Blog Ideas
 * [React Comments](https://wesbos.com/react-jsx-comments/)
