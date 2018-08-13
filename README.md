@@ -301,6 +301,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 	* PicketLink
   * jjwt - Java JSON Web Token
   * jHipster
+  * Vaadin
 * Static Code Analysis & Quality Metrics
   * Java
     * JaCoCo
