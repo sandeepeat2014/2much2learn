@@ -42,6 +42,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Microservices
   * Service Oriented Architecture (SOA)
   * Message Oriented Middleware(MOM)
+  * BOM - Bill of Materials
   * TDD
   * BDD
   * CQRS
