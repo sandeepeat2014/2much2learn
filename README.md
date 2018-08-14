@@ -495,7 +495,26 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Wekan - Task & Project Management
   * Davros - File Manager Server 
   * Sandstorm - open source platform for self-hosting web apps
-
+* Development Tools
+  * IDE
+    * Eclipse
+    * Spring Tool Suite
+    * Visual Studio Code
+      * Java
+        * https://marketplace.visualstudio.com/items?itemName=redhat.java
+	* https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+	* https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug
+	* https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven
+	* https://marketplace.visualstudio.com/items?itemName=faustinoaq.javac-linter
+	* https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr
+      * Node - https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack
+      * React - https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native
+  * Cmder - Console emulator for Windows
+  * Notepad++
+  * Git
+  * SVN
+  * Postman
+  
 ## Blog Ideas
 * [React Comments](https://wesbos.com/react-jsx-comments/)
 * [Deploy NodeJS application to Amazon Lambda using Serverless](https://hackernoon.com/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996)
