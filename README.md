@@ -27,6 +27,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * OSGi
   * Interfaces & Classes
     * java.util.ServiceLoader
+    * java.util.concurrent.CompletableFuture
+    * java.util.Optional
 * Groovy
 * Kotlin
 * Scala
@@ -198,6 +200,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Vault
   * WebFlow
   * Web Services
+  * Interfaces & Classes
+    * org.springframework.context.event.EventListener
+    * org.springframework.scheduling.annotation.Async
 * Microservices
   * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
   * Holon
