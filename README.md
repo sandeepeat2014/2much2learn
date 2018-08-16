@@ -273,6 +273,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Postman
     * Newman
   * Java Assist
+  * MiGBase64 - very fast and small Base64 Codec written in Java
   * Netty
   * Undertow
   * Apache Thrift
