@@ -29,6 +29,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * java.util.ServiceLoader
     * java.util.concurrent.CompletableFuture
     * java.util.Optional
+    * java.util.concurrent Package
+      * Executors
+      * Queues
+      * Timing
+      * Synchronizers
+      * Concurrent Collections
 * Groovy
 * Kotlin
 * Scala
@@ -127,6 +133,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Observer
   * Functional Programming
   * Reactive Programming
+  * Back Pressure
   * Functional Reactive Programming
   * Declarative Programming
   * Imperative Programming
@@ -215,6 +222,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Zuul (Hysterx, Eureka, Ribbon)
     * Spinnaker
     * Nebula
+  * Netifi - Reactive Microservices Platform
   * Applications & Tools
     * Service Monitoring
       * Ganglia
@@ -235,7 +243,16 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
       * Squash - Debugger for Microservices
       * Splunk Log Management
 	* Localization
-	  * Zanata - Web Based Transclation 
+	  * Zanata - Web Based Transclation
+* Reactive
+  * RxJava
+  * rxjava2-jdbc
+  * Reactive Streams
+  * Reactive Core
+  * WebFlux
+  * 
+  * Flux, Mono
+  * Backpressure
 * Integration Frameworks
   * Apache Camel
   * Mulesoft
