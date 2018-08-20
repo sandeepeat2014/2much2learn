@@ -131,12 +131,15 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Command
   * Stratergy
   * Observer
+  * Seperation of Concerns
   * Functional Programming
   * Reactive Programming
   * Back Pressure
   * Functional Reactive Programming
   * Declarative Programming
   * Imperative Programming
+  * Subject Oriented Programming
+  * Aspect Oriented Programming
 * Spring
   * Boot
   * Rest / Webflux
