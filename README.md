@@ -253,7 +253,6 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Reactive Streams
   * Reactive Core
   * WebFlux
-  * 
   * Flux, Mono
   * Backpressure
 * Integration Frameworks
@@ -460,6 +459,15 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * abyssws Webserver
   * gobetween - Modern & minimalistic load balancer for the Сloud era
   * Varnish Cache - web application accelerator known as a caching HTTP reverse proxy
+* API Gateways
+  * Kong
+  * Tyk.io
+  * Netflix Zuul
+  * WSO2 API Manager
+  * Gravitee.io
+  * Ambassador
+  * Tree Gateway
+  * 
 * CI/CD
   * Build - Maven , Gradle
   * Docker
