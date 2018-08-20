@@ -252,6 +252,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * rxjava2-jdbc
   * Reactive Streams
   * Reactive Core
+  * Eclipse Vert.x
   * WebFlux
   * Flux, Mono
   * Backpressure
