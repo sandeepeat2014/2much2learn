@@ -59,6 +59,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * BOM - Bill of Materials
   * TDD
   * BDD
+  * Actor Model
   * CQRS
   * Domain Driven Design
   * Event Sourcing
@@ -225,6 +226,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Zuul (Hysterx, Eureka, Ribbon)
     * Spinnaker
     * Nebula
+    * Hysterx Dashboard
   * Netifi - Reactive Microservices Platform
   * Applications & Tools
     * Service Monitoring
