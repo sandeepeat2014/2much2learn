@@ -141,6 +141,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Imperative Programming
   * Subject Oriented Programming
   * Aspect Oriented Programming
+  * Shared-Nothing Architecture
 * Spring
   * Boot
   * Rest / Webflux
@@ -561,3 +562,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 * [React Comments](https://wesbos.com/react-jsx-comments/)
 * [Deploy NodeJS application to Amazon Lambda using Serverless](https://hackernoon.com/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996)
 * Deploy Java application to Amazon Lambda
+
+## Inspirations
+* https://github.com/cesartl/gr8tparties
+* https://www.baeldung.com
+* https://www.javacodegeeks.com/
