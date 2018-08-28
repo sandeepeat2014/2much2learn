@@ -340,6 +340,13 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Apache Shiro
     * pac4j
 	* PicketLink
+    * OWSAP ZAP - Find security vulnerabilities in your web applications
+    * OWASP Dependency Check
+    * Find Bugs
+    * gauntlt.org - Provides variety of security tools
+    * Nessus - identify vulnerabilities, policy-violating configurations and malware
+    * ThreadFix - vulnerability resolution platform
+    * Sonatype Nexus Lifecycle
   * jjwt - Java JSON Web Token
   * jHipster
   * Vaadin
