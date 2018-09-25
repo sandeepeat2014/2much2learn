@@ -35,6 +35,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
       * Timing
       * Synchronizers
       * Concurrent Collections
+* GraalVM - GraalVM is a universal virtual machine for running applications written in JavaScript, Python 3, Ruby, R, JVM-based languages like Java, Scala, Kotlin, and LLVM-based languages such as C and C++
 * Groovy
 * Kotlin
 * Scala
@@ -48,6 +49,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Serialization
     * Java Serialization (Standard but has well known problems - see Effective Java, by Josh Bloch pp. 213)
     * Protocol Buffers
+  * Just-in-time Compilation
+  * Ahead-of-time Compilation
   * Hashing
   * Microservices
   * Service Registry
@@ -217,6 +220,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * org.springframework.scheduling.annotation.Async
 * Microservices
   * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+  * Helidon - is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty
   * Holon
   * Lightbend
   * Eclipse Microprofile
