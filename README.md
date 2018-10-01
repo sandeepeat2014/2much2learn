@@ -87,6 +87,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * Keystore
     * Telnet
     * Network Proxy
+    * RSocket
   * OLAP
   * OWSAP
   * Open ID
@@ -198,6 +199,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * REST
     * Apache Solr
     * Apache Hadoop
+  * R2DBC – Reactive Relational Database Connectivity
   * JPA
   * LDAP
   * Session
@@ -250,11 +252,13 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
       * Open Zipkin
       * Open Tracing
       * Jaeger Tracing
-    * Debugging
-      * Squash - Debugger for Microservices
+    * Distributed Logging
       * Splunk Log Management
-	* Localization
-	  * Zanata - Web Based Transclation
+      * LogDevice
+    * Debugging
+      * Squash - Debugger for Microservices      
+    * Localization
+      * Zanata - Web Based Transclation
 * Reactive
   * RxJava
   * rxjava2-jdbc
