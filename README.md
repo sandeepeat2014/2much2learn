@@ -120,6 +120,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 	* Acceptance Testing
 	* Regression Testing
 	* Beta Testing
+  * [Micro Frontends](https://micro-frontends.org/)
+  * [Edge Side Includes](https://en.wikipedia.org/wiki/Edge_Side_Includes)
+  * [mean-time-to-recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery) over [mean-time-between-failures](https://en.wikipedia.org/wiki/Mean_time_between_failures)
 * Design Patterns
   * Singleton
   * Factory
