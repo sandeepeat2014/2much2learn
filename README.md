@@ -428,6 +428,9 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Kafka
   * Hadoop
   * Hive
+  * Samza
+  * Hadoop Yarn
+  * Netflix Keystone
 * Cloud Tools
   * etcd
   * Rancher
