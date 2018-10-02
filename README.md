@@ -99,6 +99,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * API Access Management
   * Promise
   * Async/Await
+  * [Cascading Failures](https://allegro.tech/2014/10/async-rest.html)
   * NATIONAL VULNERABILITY DATABASE
   * Open Graph
   * $AAS
