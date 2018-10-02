@@ -362,6 +362,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * jjwt - Java JSON Web Token
   * jHipster
   * Vaadin
+  * [Spotify - completable-futures](https://github.com/spotify/completable-futures)
 * Static Code Analysis & Quality Metrics
   * Java
     * JaCoCo
