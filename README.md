@@ -52,6 +52,10 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Just-in-time Compilation
   * Ahead-of-time Compilation
   * Hashing
+    * MD5
+    * MurmurHash
+    * SHA-256
+    * SHA-512
   * Microservices
   * Service Registry
   * Service Mesh
@@ -74,6 +78,15 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Analytics
   * SAML
   * SNMP
+  * Database
+    * Atomicity
+    * Sharding
+    * Consistency
+    * Durability
+    * Normalization/Denormalization
+    * Indexes
+  * TTL - time-to-live
+  * Clock Synchronization in Distributed Systems
   * Network
     * TCP
     * UDP
@@ -494,12 +507,12 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * WSO2 API Manager
   * Gravitee.io
   * Ambassador
-  * Tree Gateway
-  * 
-* CI/CD
+  * Tree Gateway 
+* CI/CD - DevOps
   * Build - Maven , Gradle
   * Docker
   * Kubernetes
+  * [Telepresence](https://www.telepresence.io/) - Local Development For Kubernetes And Openshift Microservices
   * Ansible
   * Terraform
   * AWS - EC2, ECS, ECR, EKS, RDS, Lambda, API Gateway, Load Balancer
