@@ -40,6 +40,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 * Kotlin
 * Scala
 * Python
+* Dart
+* Flutter
 * Concepts
   * [The Twelve-Factor App](https://12factor.net/)
   * FQDN / DNS
@@ -56,6 +58,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
     * MurmurHash
     * SHA-256
     * SHA-512
+  * Tuples
+  * [Covariance and Contravariance in Generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
   * Microservices
   * Service Registry
   * Service Mesh
