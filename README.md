@@ -603,6 +603,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
 * [React Comments](https://wesbos.com/react-jsx-comments/)
 * [Deploy NodeJS application to Amazon Lambda using Serverless](https://hackernoon.com/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996)
 * Deploy Java application to Amazon Lambda
+* Calculateing Pi Using The Monte Carlo Method
 
 ## Inspirations
 * https://github.com/cesartl/gr8tparties
