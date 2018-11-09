@@ -524,6 +524,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * IBM Cloud
   * Jenkins
   * Travis CI
+  * [GoCD](https://www.gocd.org)
+  * [SaltStack](https://www.saltstack.com/)
 * Unix
   * Shell Script
   * Cron Scheduling
