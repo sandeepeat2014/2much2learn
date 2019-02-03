@@ -73,6 +73,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Actor Model
   * CQRS
   * [Domain Driven Design](https://dzone.com/refcardz/getting-started-domain-driven?chapter=1)
+    * [Example](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
     * [Effective Aggregate Design](http://dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
   * Event Sourcing
   * Distributed Tracing
