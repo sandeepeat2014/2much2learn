@@ -342,6 +342,8 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * Airline - Java annotation-based framework for parsing Git like command line structures - https://github.com/airlift/airline
   * Google Guice - Dependency Management
   * Hikari Connection Pool
+  * [pgBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL
+  * [Hasura GraphQL Engine](https://hasura.io/) - Instant Realtime GraphQL on Postgres
   * [Handlebar Java](https://jknack.github.io/handlebars.java/)
   * [OkHttp Http Client](http://square.github.io/okhttp/)
   * [OpenFeign Http Client](https://github.com/OpenFeign/feign)
