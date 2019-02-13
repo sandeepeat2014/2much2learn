@@ -46,6 +46,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * [The Twelve-Factor App](https://12factor.net/)
   * FQDN / DNS
   * HTTP/2
+  * GraphQL
   * Immutability
   * Deep Copy
   * Serialization
@@ -521,7 +522,7 @@ https://2much2learn.com - There's always 2 much 2 learn !!!
   * [Telepresence](https://www.telepresence.io/) - Local Development For Kubernetes And Openshift Microservices
   * Ansible
   * Terraform
-  * AWS - EC2, ECS, ECR, EKS, RDS, Lambda, API Gateway, Load Balancer
+  * AWS - EC2, ECS, ECR, EKS, RDS, Lambda, API Gateway, Load Balancer, AppSync, Amplify, DynamoDB
   * Azure
   * IBM Cloud
   * Jenkins
